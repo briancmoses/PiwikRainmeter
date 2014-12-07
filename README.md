@@ -8,10 +8,7 @@ Thanks to [poiru][poiru] whose theme/skins I based this new skin off of.
 
 ### Installation Instructions ###
 
-1. Gather the necessary data for the [Piwik API][piwikapi]
-	a. Piwik URL
-	a. Your Piwik Site ID
-	a. Your Piwik authentication token
+1. Gather the necessary data for the [Piwik API][piwikapi] (Piwik URL, Piwik Site ID, Piwik authentication token)
 1. Download and install [Rainmeter][rainmeter] 
 1. Download and install my [Rainmeter Piwik Skin][piwikskin_da] from [DeviantArt][piwikskin_da], [GitHub][piwikskin_gh] or from [my blog][piwikskin_bm]
 1. Locate the downloaded file (_Piwik_1.0.0.rmskin_), double-click it and click Install.
