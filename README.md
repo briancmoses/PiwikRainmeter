@@ -1,10 +1,9 @@
-PiwikRainmeter
-==============
+## PiwikRainmeter ##
 
 This is a RainMeter skin which queries the Piwik Reporting API and parses returned XML and displays that information within the skin for the configured Piwik site.
 
-Credit
-======
+### Credit ###
+
 Thanks to [poiru][poiru] whose theme/skins I based this new skin off of.
 
 ### Installation Instructions ###
